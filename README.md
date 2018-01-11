@@ -7,8 +7,13 @@ This project is part of the [Full Stack Web Developer Nanodegree](https://www.ud
 ## Server Details
 The website can be accessed using the following URL's:
 
-IP address: `54.202.74.198`
-SSH Port: `2200`
+IP address:
+```
+54.202.74.198```
+
+SSH Port:```
+2200
+```
 URL: `http://54.202.74.198/` OR `http://ec2-54-202-74-198.us-west-2.compute.amazonaws.com/`
 
 The Linux Server instance has been configured to be ssh into the port 2200, in addition to the default port of 22 in order to prevent any risks of ssh reconfiguration.
